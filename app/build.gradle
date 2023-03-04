@@ -82,4 +82,7 @@ dependencies {
     //paging 3
     implementation 'androidx.paging:paging-compose:1.0.0-alpha14'
 
+    //palette
+    implementation 'androidx.palette:palette:1.0.0'
+
 }
